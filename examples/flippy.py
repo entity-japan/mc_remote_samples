@@ -97,6 +97,39 @@ for i in range (9):
     for i in range (33):              
         newy+=1
         mc.setBlock(newx, newy, 5, block.TERRACOTTA)
+newx=19
+newy=85
+for y in range (3):
+            newx=19
+            for x in range (3):
+                mc.setBlock(newx,newy,6,block.WHITE_CONCRETE)
+                newx+=1
+            newy+=1      
+newx=19
+newy=81
+for y in range (3):
+            newx=19
+            for x in range (3):
+                mc.setBlock(newx,newy,6,block.BLACK_CONCRETE)
+                newx+=1
+            newy+=1     
+newx=23
+newy=85
+for y in range (3):
+            newx=23
+            for x in range (3):
+                mc.setBlock(newx,newy,6,block.BLACK_CONCRETE)
+                newx+=1
+            newy+=1                                    
+newx=23
+newy=81
+for y in range (3):
+            newx=23
+            for x in range (3):
+                mc.setBlock(newx,newy,6,block.WHITE_CONCRETE)
+                newx+=1
+            newy+=1               
+# この下は開発中
 # newx=19
 # newy=85
 # t=0
@@ -108,17 +141,15 @@ for i in range (9):
 #         if t==1:
 #             N=block.BLACK_CONCRETE
             
-# for y in range (3):
+#         for y in range (3):
 
-#                 for x in range (3):
-#                     mc.setBlock(newx,newy,6,block.GREEN_CONCRETE)
-#                     newx+=1
-#                 newy+=1                 
-    #         t+=1
-    #     newy-=4
-    # newx+=4            
-    
-
+#             for x in range (3):
+#                 mc.setBlock(newx,newy,6,block.GREEN_CONCRETE)
+#                 newx+=1
+#             newy+=1                 
+#             t+=1
+#         newy-=4
+#     newx+=4            
 def main():
 
     global MAINCLOCK, DISPLAYSURF, FONT, BIGFONT, BGIMAGE
