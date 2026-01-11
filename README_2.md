@@ -1,4 +1,4 @@
-# minecraft_remote_samples / Naohiro2g
+# minecraft_remote_samples / Naohiro2g(仮だぜ)
 
 
 ***
