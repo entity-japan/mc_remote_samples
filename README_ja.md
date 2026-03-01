@@ -12,7 +12,7 @@ APIを使って、ダイヤモンドを作る。
 
 --
 
-### README（このファイル）
+### README
   - ダイヤモンド
      ![alt text](diamond.png)
 
@@ -72,6 +72,21 @@ APIを使って、ダイヤモンドを作る。
 sizeの値を変更することで大きさを変えることができます。
 
 ピラミッドを上と下につくり、それを重ねるようなかたちでプログラムは組んでいます。
+
+--
+
+- size=20
+  - ![alt text](image.png)
+
+--
+
+- size=30
+  - ![alt text](image-1.png)
+
+--
+
+- size=40
+  - ![alt text](image-2.png)
 
 --
 
