@@ -18,7 +18,7 @@ def clear_sphere(mc, x0, y0, z0, r):
 
 
 # ■ ダイヤ型（中央1ブロック）
-def set_diamond(mc, x0=0, y0=param.Y_SEA + 10, z0=0, size=5, block_id=block.DIAMOND_BLOCK):  # ここのblockを変えるとブロックの種類が変わるよ
+def set_diamond(mc, x0=0, y0=param.Y_SEA + 10, z0=0, size=5, block_id=block.DIAMOND_BLOCK):  # ここのblockを変えるとブロックの種類が変わる
     
     # 周囲破壊
     clear_sphere(mc, x0, y0, z0, size + 2)
