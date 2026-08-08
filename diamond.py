@@ -39,5 +39,5 @@ def set_diamond(mc, x0=0, y0=param.Y_SEA + 10, z0=0, size=5, block_id=block.DIAM
 
 # 実行
 mc.postToChat("Building diamond shape...")
-set_diamond(mc, x0=0, z0=0, size=10, block_id=block.COPPER_BLOCK)  # ここのblockを変えるとブロックの種類が変わる
+set_diamond(mc, x0=-30, z0=0, size=10, block_id=block.DIAMOND_BLOCK)  # ここのblockを変えるとブロックの種類が変わる
     

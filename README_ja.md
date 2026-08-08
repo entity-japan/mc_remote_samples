@@ -85,7 +85,7 @@ sizeの値を変更することで大きさを変えることができます。
 
 ５、実行する
 
---
+---
 
 - size=4
   - ![alt text](size_4.png)
@@ -100,7 +100,7 @@ sizeの値を変更することで大きさを変えることができます。
 - size=10
   - ![alt text](size_10.png)
 
---
+---
 
 - block_id=block.COPPER_BLOCK
   - ![alt text](copperblock.png)
@@ -115,7 +115,27 @@ sizeの値を変更することで大きさを変えることができます。
 - block_id=block.GLOWSTONE
   - ![alt text](growstone.png)
 
+---
+
+- x=30
+  - ![alt text](x=30.png)
+
 --
+
+- x=-30
+  - ![alt text](x=-30.png)
+
+--
+
+- z=30
+  - ![alt text](z=30.png)
+
+--
+
+- z=-30
+  - ![alt text](z=-30.png)
+
+---
 
 ### それぞれの部分
 
