@@ -102,6 +102,21 @@ sizeの値を変更することで大きさを変えることができます。
 
 --
 
+- block_id=block.COPPER_BLOCK
+  - ![alt text](copperblock.png)
+
+--
+
+- block_id=block.DIAMOND_BLOCK
+  - ![alt text](diamond_block.png)
+
+--
+
+- block_id=block.GLOWSTONE
+  - ![alt text](growstone.png)
+
+--
+
 ### それぞれの部分
 
 - 上の部分
